@@ -16,7 +16,7 @@
   - SQLite
 - Mobile
   - iOS
-    - PhotoKit, Vision(MLCore), CoreData, SPM...
+    - PhotoKit, Vision(CoreML), CoreData, SPM...
   - Android 
 - Infrastructure
   - AWS
