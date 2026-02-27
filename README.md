@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="top" src="./pic/52BABC67-00C5-4762-8BAF-463C76CBC209.png" alt="header" align="center" width="100%" height="400px" >
+</div>
+
 ### My position🧑‍💻
 - Software Engineer
 - Indie Hacker
