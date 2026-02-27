@@ -1,16 +1,29 @@
-## Hi there 👋
+### My position🧑‍💻
+- Software Engineer
+- Indie Hacker
 
-<!--
-**kztakada/kztakada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Skills 🔧
+- Web Frontend
+  - Vue.js
+  - ionic/capacitor
+- Web Backend
+  - Express/Node.js
+- DB
+  - SQLite
+- Mobile
+  - iOS
+    - PhotoKit, Vision(MLCore), CoreData, SPM...
+  - Android 
+- Infrastructure
+  - AWS
+    - EC2, S3, DynamoDB, RDS, AppSync, Amplify, lambda, SNS, SQS, Amazon Connect, CloudWatch...
+  - Docker
+- languages
+  - TypeScript
+  - Swift
+  - Python
+  - C
+  - C++
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently in progress📈
+- Flutter/Dart(iOS/Android app)   
